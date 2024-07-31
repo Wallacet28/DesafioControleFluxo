@@ -5,7 +5,7 @@
 Este projeto é uma implementação prática do módulo de Controle de Fluxo do curso de Java da [DIO](https://www.dio.me). O objetivo do desafio é criar um programa que receba dois números inteiros via terminal e imprima uma série de mensagens baseadas nesses números. Se o primeiro número for maior que o segundo, o programa deve lançar uma exceção personalizada.
 
 ## Autor
-Wallace Tadeu da Silva
+Wallace Tadeu da Silva ([GitHub](https://github.com/Wallacet28))
 
 ## Funcionalidades
 
