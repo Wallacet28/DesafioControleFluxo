@@ -19,25 +19,23 @@ Wallace Tadeu da Silva
 - Um editor de texto ou IDE que suporte Java (por exemplo, IntelliJ IDEA, VS Code).
 
 ## Uso
-Digite o primeiro parâmetro: O menor número do intervalo.
-Digite o segundo parâmetro: O maior número do intervalo.
-Observe a saída: O programa imprimirá todos os números entre os dois parâmetros em ordem crescente. Caso o primeiro número seja maior que o segundo, será exibida uma mensagem de erro.
-Exemplo de Saída
+- Digite o primeiro parâmetro: O menor número do intervalo.
+- Digite o segundo parâmetro: O maior número do intervalo.
+- Observe a saída: O programa imprimirá todos os números entre os dois parâmetros em ordem crescente. Caso o primeiro número seja maior que o segundo, será exibida uma mensagem de erro.
+- Exemplo de Saída
 Se você inserir 12 como o primeiro parâmetro e 30 como o segundo, a saída será:
 
-sh
-Copiar código
-Digite o primeiro parâmetro
-12
-Digite o segundo parâmetro
-30
+
+- Digite o primeiro parâmetro
+   12
+- Digite o segundo parâmetro
+   30
 Imprimindo o número 12
 Imprimindo o número 13
 Imprimindo o número 14
 ...
 Imprimindo o número 30
-Se o primeiro parâmetro for maior que o segundo, o programa exibirá:
+- Se o primeiro parâmetro for maior que o segundo, o programa exibirá:
 
-sh
-Copiar código
-O segundo parâmetro deve ser maior que o primeiro
+
+- O segundo parâmetro deve ser maior que o primeiro
